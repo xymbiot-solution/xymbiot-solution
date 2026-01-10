@@ -163,37 +163,21 @@
 <p align="left">
     <a href="https://xymbiotsolution.com/_next/static/media/CEH.81e9454b.png" target="_blank" rel="noreferrer">
         <picture>
-            <source media="(prefers-color-scheme: dark)"
-                srcset="https://xymbiotsolution.com/_next/static/media/CEH.81e9454b.png" />
-            <source media="(prefers-color-scheme: light)"
-                srcset="https://xymbiotsolution.com/_next/static/media/CAP.8f006059.png" />
-            <img src="https://xymbiotsolution.com/_next/static/media/CAP.8f006059.png"
-                width="32" height="32" alt="CAP" title="CAP" />
+            <img src="https://xymbiotsolution.com/_next/static/media/CAP.8f006059.png" width="32" height="32" alt="CAP" title="CAP" />
         </picture>
     </a>
     <a href="https://xymbiotsolution.com/_next/static/media/CNSP.7d37b408.png" target="_blank" rel="noreferrer"> \
         <picture>
-            <source media="(prefers-color-scheme: dark)"
-                srcset="https://xymbiotsolution.com/_next/static/media/CNSP.7d37b408.png" />
-            <source media="(prefers-color-scheme: light)"
-                srcset="https://xymbiotsolution.com/_next/static/media/CNSP.7d37b408.png" />
-            <img src="https://xymbiotsolution.com/_next/static/media/CNSP.7d37b408.png"
-                width="32" height="32" alt="CNSP" title="CNSP" />
+            <img src="https://xymbiotsolution.com/_next/static/media/CNSP.7d37b408.png" width="32" height="32" alt="CNSP" title="CNSP" />
         </picture>
     </a> 
     <a href="https://xymbiotsolution.com/_next/static/media/CEH.81e9454b.png" target="_blank" rel="noreferrer">
         <picture>
-            <source media="(prefers-color-scheme: dark)"
-                srcset="https://xymbiotsolution.com/_next/static/media/CEH.81e9454b.png" />
-            <source media="(prefers-color-scheme: light)"
-                srcset="https://xymbiotsolution.com/_next/static/media/CEH.81e9454b.png" />
-            <img src="https://xymbiotsolution.com/_next/static/media/CEH.81e9454b.png"
-                width="32" height="32" alt="CEH" title="CEH" />
+            <img src="https://xymbiotsolution.com/_next/static/media/CEH.81e9454b.png" width="32" height="32" alt="CEH" title="CEH" />
         </picture>
     </a> 
-</p>
+</p></br>
 
 <a href="https://www.github.com/xymbiot-solution" target="_blank" rel="noreferrer">
-    <img
-        src="https://img.shields.io/github/followers/xymbiot-solution?logo=github&style=for-the-badge&color=6366f1&labelColor=1c1917" />
+    <img src="https://img.shields.io/github/followers/xymbiot-solution?logo=github&style=for-the-badge&color=6366f1&labelColor=1c1917" />
 </a>
