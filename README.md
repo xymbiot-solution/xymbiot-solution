@@ -178,6 +178,31 @@
     </a> 
 </p></br>
 
+### Our Freelancer Team 
+
+<p align="left">
+    <a href="https://www.linkedin.com/in/taukhid-an" target="_blank" rel="noreferrer">
+        <picture>
+            <img src="https://media.licdn.com/dms/image/v2/D5635AQHgdK5QqUfUmw/profile-framedphoto-shrink_200_200/B56ZnSy0SyI0AY-/0/1760178161082?e=1768636800&v=beta&t=PgRUfeIqrEeZi2K-fm-IXTYoXT_JBtXaQX1pJ9IY9GA" width="32" height="32" alt="Taukhid" title="Taukhid" />
+        </picture>
+    </a> 
+    <a href="https://www.linkedin.com/in/dimas-agus-987a511a4/" target="_blank" rel="noreferrer">
+        <picture>
+            <img src="https://media.licdn.com/dms/image/v2/D5635AQGTsep1pDBSPg/profile-framedphoto-shrink_200_200/profile-framedphoto-shrink_200_200/0/1711418055385?e=1768636800&v=beta&t=gktoEg42C2zhwpOUP9YMXtDtERWgeKqX5RzL_NVf5hk" width="32" height="32" alt="Dimas" title="Dimas" />
+        </picture>
+    </a>
+    <a href="https://www.linkedin.com/in/edohandoko/" target="_blank" rel="noreferrer"> 
+        <picture>
+            <img src="https://media.licdn.com/dms/image/v2/D5635AQHgdK5QqUfUmw/profile-framedphoto-shrink_200_200/B56ZnSy0SyI0AY-/0/1760178161082?e=1768636800&v=beta&t=PgRUfeIqrEeZi2K-fm-IXTYoXT_JBtXaQX1pJ9IY9GA" width="32" height="32" alt="Edo" title="Edo" />
+        </picture>
+    </a> 
+    <a href="https://www.linkedin.com/in/mochamad-avif-firdaus-0062113a0/" target="_blank" rel="noreferrer">
+        <picture>
+            <img src="https://media.licdn.com/dms/image/v2/D4D03AQHJOQORvgKRHQ/profile-displayphoto-scale_200_200/B4DZruuhKSJIAY-/0/1764941764964?e=1769644800&v=beta&t=NyTxEtMNNDiKQNx8B1bCkxweR6EfW-A_0iydDWTSBDc" width="32" height="32" alt="Avif" title="Avif" />
+        </picture>
+    </a> 
+</p></br>
+
 <a href="https://www.github.com/xymbiot-solution" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/github/followers/xymbiot-solution?logo=github&style=for-the-badge&color=6366f1&labelColor=1c1917" />
 </a>
