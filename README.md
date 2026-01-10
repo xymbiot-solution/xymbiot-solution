@@ -176,7 +176,7 @@
             <img src="https://xymbiotsolution.com/_next/static/media/CEH.81e9454b.png" width="32" height="32" alt="CEH" title="CEH" />
         </picture>
     </a> 
-</p></br>
+</p>
 
 ### Our Freelancer Team 
 
