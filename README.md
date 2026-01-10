@@ -166,7 +166,7 @@
             <img src="https://xymbiotsolution.com/_next/static/media/CAP.8f006059.png" width="32" height="32" alt="CAP" title="CAP" />
         </picture>
     </a>
-    <a href="https://xymbiotsolution.com/_next/static/media/CNSP.7d37b408.png" target="_blank" rel="noreferrer"> \
+    <a href="https://xymbiotsolution.com/_next/static/media/CNSP.7d37b408.png" target="_blank" rel="noreferrer"> 
         <picture>
             <img src="https://xymbiotsolution.com/_next/static/media/CNSP.7d37b408.png" width="32" height="32" alt="CNSP" title="CNSP" />
         </picture>
