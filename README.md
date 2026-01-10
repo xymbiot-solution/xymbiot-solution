@@ -183,7 +183,7 @@
 <p align="left">
     <a href="https://www.linkedin.com/in/taukhid-an" target="_blank" rel="noreferrer">
         <picture>
-            <img src="https://media.licdn.com/dms/image/v2/D5635AQHgdK5QqUfUmw/profile-framedphoto-shrink_200_200/B56ZnSy0SyI0AY-/0/1760178161082?e=1768636800&v=beta&t=PgRUfeIqrEeZi2K-fm-IXTYoXT_JBtXaQX1pJ9IY9GA" width="32" height="32" alt="Taukhid" title="Taukhid" />
+            <img src="https://media.licdn.com/dms/image/v2/D4D35AQF2fE1yUheKJQ/profile-framedphoto-shrink_200_200/B4DZsiir1FKYAc-/0/1765811076664?e=1768636800&v=beta&t=0F9U2i1TSrhcJ4WHcNV7iMfjUgMpNZAJh0nVcJC95oI" width="32" height="32" alt="Taukhid" title="Taukhid" />
         </picture>
     </a> 
     <a href="https://www.linkedin.com/in/dimas-agus-987a511a4/" target="_blank" rel="noreferrer">
