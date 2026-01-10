@@ -49,7 +49,7 @@
             src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg"
             alt="React" title="React" width="36" height="36" /></a><a href="https://nextjs.org/docs" target="_blank"
         rel="noreferrer"><img
-            src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg"
+            src="https://images.icon-icons.com/2389/PNG/512/next_js_logo_icon_145038.png"
             alt="NextJs" title="NextJs" width="36" height="36" /></a><a href="https://tailwindcss.com/" target="_blank"
         rel="noreferrer"><img
             src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg"
@@ -67,7 +67,7 @@
             src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg"
             alt="Vite" title="Vite" width="36" height="36" /></a><a href="https://ui.shadcn.com/" target="_blank"
         rel="noreferrer"><img
-            src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/shadcnui-colored-dark.svg"
+            src="https://images.seeklogo.com/logo-png/51/1/shadcn-ui-logo-png_seeklogo-519786.png"
             alt="Shadcn/ui" title="Shadcn/ui" width="36" height="36" /></a><a href="https://jquery.com/" target="_blank"
         rel="noreferrer"><img
             src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg"
@@ -82,7 +82,7 @@
             src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg"
             alt="PostgreSQL" title="PostgreSQL" width="36" height="36" /></a><a
         href="https://flask.palletsprojects.com/en/3.0.x/" target="_blank" rel="noreferrer"><img
-            src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored-dark.svg"
+            src="https://flask.palletsprojects.com/en/stable/_images/flask-name.svg"
             alt="Flask" title="Flask" width="36" height="36" /></a><a href="https://www.figma.com/" target="_blank"
         rel="noreferrer"><img
             src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg"
