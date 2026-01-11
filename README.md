@@ -253,9 +253,18 @@ or [Telegram](https://t.me/taukhidan)
       height="36"
   /></a>
   </a>
+    <a href="https://www.espressif.com/" target="_blank" rel="noreferrer"
+    ><img
+      src="https://www.espressif.com/sites/all/themes/espressif/logo-black.svg"
+      alt="Espressif"
+      title="Espressif"
+      width="36"
+      height="36"
+  /></a>
+  </a>
     <a href="https://www.st.com/" target="_blank" rel="noreferrer"
     ><img
-      src="https://www.st.com/content/dam/st-crew/st-logo-blue.svg"
+      src="https://avatars.githubusercontent.com/u/10744877?s=200&v=4"
       alt="STM32"
       title="STM32"
       width="36"
