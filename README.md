@@ -6,7 +6,7 @@
 [Whatsapp](https://api.whatsapp.com/send/?phone=%2B6285739205140&text=I%27m+interested+in+your+services+i+would+like+to+discuss&type=phone_number&app_absent=0)
 or [Telegram](https://t.me/taukhidan)
 - 🚀 We are currently working on [Anywhere](http://xymbiotsolution.com/)
-- 🧠 We are currently learning and inovation for Software and Firmware development
+- 🧠 We are currently learning and inovation for software and firmware development
 - 👥 We are looking to collaborate with software and firmware developer for microcontroller and edge device
 
 <p align="left">
