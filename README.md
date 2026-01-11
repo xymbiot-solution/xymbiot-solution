@@ -186,7 +186,7 @@ or [Telegram](https://t.me/taukhidan)
       height="36" /></a
   ><a href="https://www.raspberrypi.org/" target="_blank" rel="noreferrer"
     ><img
-      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/raspberrypi-colored.svg"
+      src="https://www.raspberrypi.com/app/uploads/2022/02/COLOUR-Raspberry-Pi-Symbol-Registered.png"
       alt="Raspberry Pi"
       title="Raspberry Pi"
       width="36"
@@ -246,7 +246,7 @@ or [Telegram](https://t.me/taukhidan)
   </a>
     <a href="https://www.seeedstudio.com/" target="_blank" rel="noreferrer"
     ><img
-      src="https://media-cdn.seeedstudio.com/media/logo/stores/4/logo_2018_horizontal.png"
+      src="https://aftersale.seeedstudio.com/favicon.ico"
       alt="SeedStudio"
       title="SeedStudio"
       width="36"
@@ -255,7 +255,7 @@ or [Telegram](https://t.me/taukhidan)
   </a>
     <a href="http://www.orangepi.org/" target="_blank" rel="noreferrer"
     ><img
-      src="http://www.orangepi.org/img/logo.png"
+      src="https://www.htpcguides.com/wp-content/uploads/2015/09/orange-pi-square-vector.png"
       alt="OrangePi"
       title="OrangePi"
       width="36"
@@ -264,7 +264,7 @@ or [Telegram](https://t.me/taukhidan)
   </a>
     <a href="https://www.espressif.com/" target="_blank" rel="noreferrer"
     ><img
-      src="https://www.espressif.com/sites/all/themes/espressif/logo-black.svg"
+      src="https://cdn.iconscout.com/icon/free/png-512/free-espressif-logo-icon-svg-download-png-2285012.png?f=webp&w=256"
       alt="Espressif"
       title="Espressif"
       width="36"
