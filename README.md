@@ -207,6 +207,15 @@ or [Telegram](https://t.me/taukhidan)
       width="36"
       height="36"
   /></a>
+  </a>
+    <a href="https://flutter.dev/" target="_blank" rel="noreferrer"
+    ><img
+      src="https://storage.googleapis.com/cms-storage-bucket/icon_flutter.4fd5520fe28ebf839174.svg"
+      alt="Flutter"
+      title="Flutter"
+      width="36"
+      height="36"
+  /></a>
     </a>
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"
     ><img
