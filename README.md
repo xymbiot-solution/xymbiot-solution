@@ -2,7 +2,6 @@
 
 ## A dedicated team of software and firmware developers
 
-- 🌍 We are based in [Indonesia](https://maps.app.goo.gl/wvnj2PrYvewK1GMGA)
 - ✉️ Contact our team via [Email](mailto:cybertechcomputiotsolutions@yahoo.com) or
 [Whatsapp](https://api.whatsapp.com/send/?phone=%2B6285739205140&text=I%27m+interested+in+your+services+i+would+like+to+discuss&type=phone_number&app_absent=0)
 or [Telegram](https://t.me/taukhidan)
