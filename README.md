@@ -34,9 +34,6 @@ or [Telegram](https://t.me/taukhidan)
   <a href="https://flask.palletsprojects.com/en/3.0.x/" target="_blank" rel="noreferrer">
     <img src="https://icon.icepanel.io/Technology/svg/Flask.svg" alt="Flask" title="Flask" width="36" height="36" />
   </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" alt="Figma" title="Figma" width="36" height="36" />
-  </a>
   <a href="https://wordpress.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/wordpress-colored.svg" alt="Wordpress" title="Wordpress" width="36" height="36" />
   </a>
@@ -58,6 +55,9 @@ or [Telegram](https://t.me/taukhidan)
   </a>
   <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" alt="PostgreSQL" title="PostgreSQL" width="36" height="36" />
+  </a>
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" alt="Figma" title="Figma" width="36" height="36" />
   </a>
   <a href="https://in-vision.webflow.io/" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/invision.svg" alt="Invision" title="Invision" width="36" height="36" />
