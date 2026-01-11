@@ -421,14 +421,16 @@ or [Telegram](https://t.me/taukhidan)
       />
     </picture>
   </a>
-</p></br>
+</p>
 
-<a
-  href="https://github.com/xymbiot-solution?tab=followers"
-  target="_blank"
-  rel="noreferrer"
->
-  <img
-    src="https://img.shields.io/github/followers/xymbiot-solution?logo=github&style=for-the-badge&color=6366f1&labelColor=1c1917"
-  />
-</a>
+<p align="left">
+  <a
+    href="https://github.com/xymbiot-solution?tab=followers"
+    target="_blank"
+    rel="noreferrer"
+  >
+    <img
+      src="https://img.shields.io/github/followers/xymbiot-solution?logo=github&style=for-the-badge&color=6366f1&labelColor=1c1917"
+    />
+  </a>
+</p>
