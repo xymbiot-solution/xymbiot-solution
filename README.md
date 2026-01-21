@@ -121,28 +121,28 @@ or [Telegram](https://t.me/taukhidan)
   <a href="https://www.linkedin.com/in/taukhid-an" target="_blank" rel="noreferrer">
     <picture>
       <img
-        src="https://media.licdn.com/dms/image/v2/D4D35AQF2fE1yUheKJQ/profile-framedphoto-shrink_200_200/B4DZsiir1FKYAc-/0/1765811076664?e=1768636800&v=beta&t=0F9U2i1TSrhcJ4WHcNV7iMfjUgMpNZAJh0nVcJC95oI"
+        src="https://github.com/xymbiot-solution/xymbiot-solution/blob/main/team/taukhid.jpg"
         width="32" height="32" alt="Taukhid" title="Taukhid" />
     </picture>
   </a>
   <a href="https://www.linkedin.com/in/dimas-agus-987a511a4/" target="_blank" rel="noreferrer">
     <picture>
       <img
-        src="https://media.licdn.com/dms/image/v2/D5635AQGTsep1pDBSPg/profile-framedphoto-shrink_200_200/profile-framedphoto-shrink_200_200/0/1711418055385?e=1768636800&v=beta&t=gktoEg42C2zhwpOUP9YMXtDtERWgeKqX5RzL_NVf5hk"
+        src="https://github.com/xymbiot-solution/xymbiot-solution/blob/main/team/dimas.jpg"
         width="32" height="32" alt="Dimas" title="Dimas" />
     </picture>
   </a>
   <a href="https://www.linkedin.com/in/edohandoko/" target="_blank" rel="noreferrer">
     <picture>
       <img
-        src="https://media.licdn.com/dms/image/v2/D5635AQHgdK5QqUfUmw/profile-framedphoto-shrink_200_200/B56ZnSy0SyI0AY-/0/1760178161082?e=1768636800&v=beta&t=PgRUfeIqrEeZi2K-fm-IXTYoXT_JBtXaQX1pJ9IY9GA"
+        src="https://github.com/xymbiot-solution/xymbiot-solution/blob/main/team/edo.jpg"
         width="32" height="32" alt="Edo" title="Edo" />
     </picture>
   </a>
   <a href="https://www.linkedin.com/in/mochamad-avif-firdaus-0062113a0/" target="_blank" rel="noreferrer">
     <picture>
       <img
-        src="https://media.licdn.com/dms/image/v2/D4D03AQHJOQORvgKRHQ/profile-displayphoto-scale_200_200/B4DZruuhKSJIAY-/0/1764941764964?e=1769644800&v=beta&t=NyTxEtMNNDiKQNx8B1bCkxweR6EfW-A_0iydDWTSBDc"
+        src="https://github.com/xymbiot-solution/xymbiot-solution/blob/main/team/avif.jpg"
         width="32" height="32" alt="Avif" title="Avif" />
     </picture>
   </a>
