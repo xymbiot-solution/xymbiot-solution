@@ -10,70 +10,30 @@
 - 👥 We are looking to collaborate with software and firmware developer for building scalable architectures
 
 <p align="left">
-  <a href="https://www.qt.io/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="C" title="C" width="36" height="36" />
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" alt="React" title="React" width="36" height="36" />
-  </a>
-  <a href="https://nextjs.org/docs" target="_blank" rel="noreferrer">
-    <img src="https://images.icon-icons.com/2389/PNG/512/next_js_logo_icon_145038.png" alt="NextJs" title="NextJs" width="36" height="36" />
-  </a>
-  <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" alt="NodeJS" title="NodeJS" width="36" height="36" />
-  </a>
-  <a href="https://wordpress.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/wordpress-colored.svg" alt="Wordpress" title="Wordpress" width="36" height="36" />
-  </a>
-  <a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://cdn.brandfetch.io/ide68-31CH/theme/dark/symbol.svg?c=1dxbfHSJFAPEGdCLU4o5B" alt="Laravel" title="Laravel" width="36" height="36" />
-  </a>
-  <a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://storage.googleapis.com/cms-storage-bucket/icon_flutter.4fd5520fe28ebf839174.svg" alt="Flutter" title="Flutter" width="36" height="36" />
-  </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" alt="Docker" title="Docker" width="36" height="36" />
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://icon.icepanel.io/Technology/svg/MySQL.svg" alt="MySQL" title="MySQL" width="36" height="36" />
-  </a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" alt="Firebase" title="Firebase" width="36" height="36" />
-  </a>
-  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" alt="PostgreSQL" title="PostgreSQL" width="36" height="36" />
-  </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" alt="Figma" title="Figma" width="36" height="36" />
-  </a>
-  <a href="https://in-vision.webflow.io/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/invision.svg" alt="Invision" title="Invision" width="36" height="36" />
-  </a>
-  <a href="https://www.adobe.com/uk/products/xd.html" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xd-colored-dark.svg" alt="XD" title="XD" width="36" height="36" />
-  </a>
-  <a href="https://store.arduino.cc/?gclid=Cj0KCQjw2eilBhCCARIsAG0Pf8uueBifykWcsSS4LPESeGQfxGVKJYnzV7bz471XfknQJy_1VINVWM8aAkLtEALw_wcB" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/arduino-colored.svg" alt="Arduino" title="Arduino" width="36" height="36" />
-  </a>
-  <a href="https://www.raspberrypi.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.raspberrypi.com/app/uploads/2022/02/COLOUR-Raspberry-Pi-Symbol-Registered.png" alt="Raspberry Pi" title="Raspberry Pi" width="36" height="36" />
-  </a>
-  <a href="https://www.seeedstudio.com/" target="_blank" rel="noreferrer"><img src="https://aftersale.seeedstudio.com/favicon.ico" alt="SeedStudio" title="SeedStudio" width="36" height="36" />
-  </a>
-  <a href="http://www.orangepi.org/" target="_blank" rel="noreferrer"><img src="https://www.htpcguides.com/wp-content/uploads/2015/09/orange-pi-square-vector.png" alt="OrangePi" title="OrangePi" width="36" height="36" />
-  </a>
-  <a href="https://www.espressif.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.iconscout.com/icon/free/png-512/free-espressif-logo-icon-svg-download-png-2285012.png?f=webp&w=256" alt="Espressif" title="Espressif" width="36" height="36" />
-  </a>
-  <a href="https://www.st.com/" target="_blank" rel="noreferrer">
-    <img src="https://avatars.githubusercontent.com/u/10744877?s=200&v=4" alt="STM32" title="STM32" width="36" height="36" />
-  </a>
-  <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer">
-    <img src="https://cdn3.emoji.gg/emojis/92899-springboot.png" alt="Springboot" title="Springboot" width="36" height="36" />
-  </a>
-  <a href="https://go.dev/" target="_blank" rel="noreferrer">
-    <img src="https://iconlogovector.com/uploads/images/2024/04/lg-6619d74e0c9e1-GO-Golang.webp" alt="Wix" title="Wix" width="36" height="36" />
-  </a>
-  <a href="https://www.codeigniter.com/" target="_blank" rel="noreferrer"><img src="https://www.codeigniter.com/assets/icons/ci-footer.png" alt="CodeIgniter" title="CodeIgniter" width="36" height="36" />
-  </a>
-  <a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg" alt="Vue js" title="Vue js" width="36" height="36" />
-  </a>
+  <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="C" title="C" width="36" height="36" /> </a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" alt="React" title="React" width="36" height="36" /> </a>
+  <a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"> <img src="https://images.icon-icons.com/2389/PNG/512/next_js_logo_icon_145038.png" alt="NextJs" title="NextJs" width="36" height="36" /> </a>
+  <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" alt="NodeJS" title="NodeJS" width="36" height="36" /> </a>
+  <a href="https://wordpress.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/wordpress-colored.svg" alt="Wordpress" title="Wordpress" width="36" height="36" /> </a>
+  <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.brandfetch.io/ide68-31CH/theme/dark/symbol.svg?c=1dxbfHSJFAPEGdCLU4o5B" alt="Laravel" title="Laravel" width="36" height="36" /> </a>
+  <a href="https://flutter.dev/" target="_blank" rel="noreferrer"> <img src="https://storage.googleapis.com/cms-storage-bucket/icon_flutter.4fd5520fe28ebf839174.svg" alt="Flutter" title="Flutter" width="36" height="36" /> </a>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" alt="Docker" title="Docker" width="36" height="36" /> </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://icon.icepanel.io/Technology/svg/MySQL.svg" alt="MySQL" title="MySQL" width="36" height="36" /> </a>
+  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" alt="Firebase" title="Firebase" width="36" height="36" /> </a>
+  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" alt="PostgreSQL" title="PostgreSQL" width="36" height="36" /> </a>
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" alt="Figma" title="Figma" width="36" height="36" /> </a>
+  <a href="https://in-vision.webflow.io/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/invision.svg" alt="Invision" title="Invision" width="36" height="36" /> </a>
+  <a href="https://www.adobe.com/uk/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xd-colored-dark.svg" alt="XD" title="XD" width="36" height="36" /> </a>
+  <a href="https://store.arduino.cc/?gclid=Cj0KCQjw2eilBhCCARIsAG0Pf8uueBifykWcsSS4LPESeGQfxGVKJYnzV7bz471XfknQJy_1VINVWM8aAkLtEALw_wcB" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/arduino-colored.svg" alt="Arduino" title="Arduino" width="36" height="36" /> </a>
+  <a href="https://www.raspberrypi.org/" target="_blank" rel="noreferrer"> <img src="https://www.raspberrypi.com/app/uploads/2022/02/COLOUR-Raspberry-Pi-Symbol-Registered.png" alt="Raspberry Pi" title="Raspberry Pi" width="36" height="36" /> </a>
+  <a href="https://www.seeedstudio.com/" target="_blank" rel="noreferrer"> <img src="https://aftersale.seeedstudio.com/favicon.ico" alt="SeedStudio" title="SeedStudio" width="36" height="36" /> </a>
+  <a href="http://www.orangepi.org/" target="_blank" rel="noreferrer"> <img src="https://www.htpcguides.com/wp-content/uploads/2015/09/orange-pi-square-vector.png" alt="OrangePi" title="OrangePi" width="36" height="36" /> </a>
+  <a href="https://www.espressif.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.iconscout.com/icon/free/png-512/free-espressif-logo-icon-svg-download-png-2285012.png?f=webp&w=256" alt="Espressif" title="Espressif" width="36" height="36" /> </a>
+  <a href="https://www.st.com/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/10744877?s=200&v=4" alt="STM32" title="STM32" width="36" height="36" /> </a>
+  <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer"> <img src="https://cdn3.emoji.gg/emojis/92899-springboot.png" alt="Springboot" title="Springboot" width="36" height="36" /> </a>
+  <a href="https://go.dev/" target="_blank" rel="noreferrer"> <img src="https://iconlogovector.com/uploads/images/2024/04/lg-6619d74e0c9e1-GO-Golang.webp" alt="Wix" title="Wix" width="36" height="36" /> </a>
+  <a href="https://www.codeigniter.com/" target="_blank" rel="noreferrer"> <img src="https://www.codeigniter.com/assets/icons/ci-footer.png" alt="CodeIgniter" title="CodeIgniter" width="36" height="36" /> </a>
+  <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg" alt="Vue js" title="Vue js" width="36" height="36" /> </a>
 </p>
 
 ### Socials
