@@ -65,7 +65,7 @@
     <img src="https://avatars.githubusercontent.com/u/10744877?s=200&v=4" alt="STM32" title="STM32" width="36" height="36" />
   </a>
   <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer">
-    <img src="https://en.wikipedia.org/wiki/Spring_Boot#/media/File:Spring_Boot.svg" alt="Springboot" title="Springboot" width="36" height="36" />
+    <img src="https://cdn3.emoji.gg/emojis/92899-springboot.png" alt="Springboot" title="Springboot" width="36" height="36" />
   </a>
   <a href="https://go.dev/" target="_blank" rel="noreferrer">
     <img src="https://iconlogovector.com/uploads/images/2024/04/lg-6619d74e0c9e1-GO-Golang.webp" alt="Wix" title="Wix" width="36" height="36" />
