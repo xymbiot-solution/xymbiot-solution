@@ -9,6 +9,8 @@
 - 🧠 We are currently learning and inovation for [software](https://en.wikipedia.org/wiki/Software) and [firmware](https://en.wikipedia.org/wiki/Firmware) development
 - 👥 We are looking to collaborate with software and firmware developer for building scalable architectures
 
+### Our techstack and tools
+
 <table>
 <tr>
 <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" width="36" alt="Qt"/></td>
@@ -19,10 +21,14 @@
 <td align="center"><img src="https://cdn.brandfetch.io/ide68-31CH/theme/dark/symbol.svg?c=1dxbfHSJFAPEGdCLU4o5B" width="36" alt="Laravel"/></td>
 <td align="center"><img src="https://storage.googleapis.com/cms-storage-bucket/icon_flutter.4fd5520fe28ebf839174.svg" width="36" alt="Flutter"/></td>
 <td align="center"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" alt="Docker"/></td>
-</tr>
-<tr>
 <td align="center"><img src="https://icon.icepanel.io/Technology/svg/MySQL.svg" width="36" alt="MySQL"/></td>
 <td align="center"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" alt="Firebase"/></td>
+</tr>
+<tr>
+<td align="center"><img src="https://aftersale.seeedstudio.com/favicon.ico" width="36" alt="SeedStudio"/></td>
+<td align="center"><img src="https://www.htpcguides.com/wp-content/uploads/2015/09/orange-pi-square-vector.png" width="36" alt="OrangePi"/></td>
+<td align="center"><img src="https://cdn.iconscout.com/icon/free/png-512/free-espressif-logo-icon-svg-download-png-2285012.png?f=webp&w=256" width="36" alt="Espressif"/></td>
+<td align="center"><img src="https://avatars.githubusercontent.com/u/10744877?s=200&v=4" width="36" alt="STM32"/></td>
 <td align="center"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" alt="PostgreSQL"/></td>
 <td align="center"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" alt="Figma"/></td>
 <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/invision.svg" width="36" alt="Invision"/></td>
@@ -31,10 +37,6 @@
 <td align="center"><img src="https://www.raspberrypi.com/app/uploads/2022/02/COLOUR-Raspberry-Pi-Symbol-Registered.png" width="36" alt="Raspberry Pi"/></td>
 </tr>
 <tr>
-<td align="center"><img src="https://aftersale.seeedstudio.com/favicon.ico" width="36" alt="SeedStudio"/></td>
-<td align="center"><img src="https://www.htpcguides.com/wp-content/uploads/2015/09/orange-pi-square-vector.png" width="36" alt="OrangePi"/></td>
-<td align="center"><img src="https://cdn.iconscout.com/icon/free/png-512/free-espressif-logo-icon-svg-download-png-2285012.png?f=webp&w=256" width="36" alt="Espressif"/></td>
-<td align="center"><img src="https://avatars.githubusercontent.com/u/10744877?s=200&v=4" width="36" alt="STM32"/></td>
 <td align="center"><img src="https://cdn3.emoji.gg/emojis/92899-springboot.png" width="36" alt="Springboot"/></td>
 <td align="center"><img src="https://iconlogovector.com/uploads/images/2024/04/lg-6619d74e0c9e1-GO-Golang.webp" width="36" alt="Go"/></td>
 <td align="center"><img src="https://www.codeigniter.com/assets/icons/ci-footer.png" width="36" alt="CodeIgniter"/></td>
