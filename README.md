@@ -9,7 +9,7 @@
 - 🧠 We are currently learning and inovation for [software](https://en.wikipedia.org/wiki/Software) and [firmware](https://en.wikipedia.org/wiki/Firmware) development
 - 👥 We are looking to collaborate with software and firmware developer for building scalable architectures
 
-<<table>
+<table>
 <tr>
 <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" width="36" alt="Qt"/></td>
 <td align="center"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" alt="React"/></td>
