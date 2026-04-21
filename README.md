@@ -22,14 +22,8 @@
   <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" alt="NodeJS" title="NodeJS" width="36" height="36" />
   </a>
-  <a href="https://flask.palletsprojects.com/en/3.0.x/" target="_blank" rel="noreferrer">
-    <img src="https://icon.icepanel.io/Technology/svg/Flask.svg" alt="Flask" title="Flask" width="36" height="36" />
-  </a>
   <a href="https://wordpress.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/wordpress-colored.svg" alt="Wordpress" title="Wordpress" width="36" height="36" />
-  </a>
-  <a href="https://wix.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/wix-colored.svg" alt="Wix" title="Wix" width="36" height="36" />
   </a>
   <a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://cdn.brandfetch.io/ide68-31CH/theme/dark/symbol.svg?c=1dxbfHSJFAPEGdCLU4o5B" alt="Laravel" title="Laravel" width="36" height="36" />
   </a>
@@ -39,8 +33,6 @@
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" alt="Docker" title="Docker" width="36" height="36" />
   </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://icon.icepanel.io/Technology/svg/MySQL.svg" alt="MySQL" title="MySQL" width="36" height="36" />
-  </a>
-  <a href="https://www.influxdata.com/" target="_blank" rel="noreferrer"><img src="https://flecs.tech/wp-content/uploads/2021/08/influxdb-logo.svg" alt="Influxdb" title="Influxdb" width="36" height="36" />
   </a>
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" alt="Firebase" title="Firebase" width="36" height="36" />
   </a>
@@ -71,6 +63,16 @@
   </a>
   <a href="https://www.st.com/" target="_blank" rel="noreferrer">
     <img src="https://avatars.githubusercontent.com/u/10744877?s=200&v=4" alt="STM32" title="STM32" width="36" height="36" />
+  </a>
+  <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer">
+    <img src="https://en.wikipedia.org/wiki/Spring_Boot#/media/File:Spring_Boot.svg" alt="Springboot" title="Springboot" width="36" height="36" />
+  </a>
+  <a href="https://go.dev/" target="_blank" rel="noreferrer">
+    <img src="https://iconlogovector.com/uploads/images/2024/04/lg-6619d74e0c9e1-GO-Golang.webp" alt="Wix" title="Wix" width="36" height="36" />
+  </a>
+  <a href="https://www.codeigniter.com/" target="_blank" rel="noreferrer"><img src="https://www.codeigniter.com/assets/icons/ci-footer.png" alt="CodeIgniter" title="CodeIgniter" width="36" height="36" />
+  </a>
+  <a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg" alt="Vue js" title="Vue js" width="36" height="36" />
   </a>
 </p>
 
