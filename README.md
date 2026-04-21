@@ -7,7 +7,7 @@
   or [Telegram](https://t.me/taukhidan)
 - 🚀 We are currently working on [Anywhere](http://xymbiotsolution.com/)
 - 🧠 We are currently learning and inovation for [software](https://en.wikipedia.org/wiki/Software) and [firmware](https://en.wikipedia.org/wiki/Firmware) development
-- 👥 We are looking to collaborate with software and firmware developer for [microcontroller](https://en.wikipedia.org/wiki/Microcontroller) and [edge device](https://en.wikipedia.org/wiki/Edge_device)
+- 👥 We are looking to collaborate with software and firmware developer for building scalable architectures
 
 <p align="left">
   <a href="https://www.qt.io/" target="_blank" rel="noreferrer">
